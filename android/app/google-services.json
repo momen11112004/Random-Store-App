@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223963417823",
+    "project_id": "random-store-app-2026",
+    "storage_bucket": "random-store-app-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223963417823:android:bb86361da6d8c487b1ad6a",
+        "android_client_info": {
+          "package_name": "com.example.random_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl14hsh7eROpA_PoIUrqZii14lu0MlCGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
