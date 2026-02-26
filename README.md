@@ -1,16 +1,43 @@
-# random_store
+# 🛍️ Random Store Mobile Application
 
-A new Flutter project.
+## 📌 Project Overview
 
-## Getting Started
+Random Store is a mobile e-commerce application developed using **Flutter** following **Agile Software Engineering** principles.
 
-This project is a starting point for a Flutter application.
+The application provides users with a modern online shopping experience where customers can browse products, manage their cart, and simulate checkout operations through an intuitive mobile interface.
 
-A few resources to get you started if this is your first Flutter project:
+This project was developed as part of a Software Engineering course applying real Agile development practices including sprint planning, backlog management, and GitHub project tracking.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Features
+
+### 🔐 Authentication
+- User Registration
+- Secure Login
+- Logout System
+
+### 🏪 Store
+- Product Listing
+- Product Details
+- Categories Display
+- Modern UI Design
+
+### 🛒 Cart System
+- Add to Cart
+- Remove Items
+- Quantity Management
+- Total Price Calculation
+
+### 💳 Checkout
+- Simulated checkout process
+- Order confirmation
+
+### 📦 Orders
+- Order history display
+
+---
+
+## 🧱 Project Architecture
+
+The application follows **Clean Architecture** principles:
